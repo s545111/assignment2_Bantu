@@ -26,3 +26,59 @@ There are so many **beaches** in Goa and it is located in **India** and we can e
    * Visit historical places like forts and monuments which had a great history.
 
 **[In README](AboutMe.md)**    
+
+# Famous Foods In Hyderabad
+
+---
+
+The following table consists some of most famous foods that are available in Hyderabad.
+
+| Food Item | Loaction | Price |
+| --- | --- | --- |
+| Chicken Biryani | Oneplace KPHB | $10 |
+| Barbeque chicken | Ab's Jublee Hills | $15 |
+| Mandi Chicken & Mutton | Arabian Mandi | $12 |
+| Butter Ghee Dosa | RamKiBandi | $4 |
+
+
+
+
+
+
+# Inspirational Quotes
+
+---
+
+> “Be yourself everyone else is already taken.”
+>> ―*Oscar Wilde*
+>
+> “All our dreams can come true, if we have the courage to pursue them.”
+>> –*Walt Disney*
+
+
+# Code Fencing
+
+---
+
+> A randomized heap is a heap that, by using a random number generator, allows you to perform all the necessary operations in the logarithmic expected time.
+> A heap is a binary tree, for any vertex of which it is true that the value at this vertex is less than or equal to the values ​​in all its descendants.
+
+We can immediately describe the structure of the binary heap:
+```
+struct Tree {
+    int value;
+    Tree * l = nullptr;
+    Tree * r = nullptr;
+};
+Tree* merge(Tree* t1, Tree* t2) {
+    if (!t1 || !t2)
+        return t1 ? t1 : t2;
+    if (t2->value < t1->value)
+        swap(t1, t2);
+    if (rand() & 1)
+        swap(t1->l, t1->r);
+    t1->l = merge(t1->l, t2);
+    return t1;
+}
+```
+<https://titanwolf.org/Network/Article/Randomized%20Heap>
