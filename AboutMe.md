@@ -17,3 +17,15 @@ The following table consists some of most famous foods that are available in Hyd
 | Barbeque chicken | Ab's Jublee Hills | $15 |
 | Mandi Chicken & Mutton | Arabian Mandi | $12 |
 | Butter Ghee Dosa | RamKiBandi | $4 |
+
+
+
+#Qoutes
+
+---
+
+> “Be yourself; everyone else is already taken.”
+>> ―* Oscar Wilde P
+>
+> “All our dreams can come true, if we have the courage to pursue them.”
+>> –* Walt Disney *
