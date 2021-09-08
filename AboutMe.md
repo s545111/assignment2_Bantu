@@ -5,7 +5,7 @@ I am from India and I belong to Telangana state and my hobbies are listening mus
 
 
 
-#Famous Foods In Hyderabad
+# Famous Foods In Hyderabad
 
 ---
 
@@ -20,11 +20,14 @@ The following table consists some of most famous foods that are available in Hyd
 
 
 
-#Qoutes
+
+
+
+# Inspirational Quotes
 
 ---
 
-> “Be yourself; everyone else is already taken.”
+> “Be yourself everyone else is already taken.”
 >> ―*Oscar Wilde*
 >
 > “All our dreams can come true, if we have the courage to pursue them.”
