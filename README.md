@@ -25,5 +25,4 @@ There are so many **beaches** in Goa and it is located in **India** and we can e
    * Enjoy Sea food in Goa which is completley unique.
    * Visit historical places like forts and monuments which had a great history.
 
-
 **[In README](AboutMe.md)**    
