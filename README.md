@@ -62,7 +62,9 @@ The following table consists some of most famous foods that are available in Hyd
 
 > A randomized heap is a heap that, by using a random number generator, allows you to perform all the necessary operations in the logarithmic expected time.<br>
 
-> A heap is a binary tree, for any vertex of which it is true that the value at this vertex is less than or equal to the values ​​in all its descendants.
+> A heap is a binary tree, for any vertex of which it is true that the value at this vertex is less than or equal to the values ​​in all its descendants. 
+
+<https://titanwolf.org/Network/Article/Randomized%20Heap>
 
 We can immediately describe the structure of the binary heap:
 ```
@@ -82,4 +84,5 @@ Tree* merge(Tree* t1, Tree* t2) {
     return t1;
 }
 ```
-<https://titanwolf.org/Network/Article/Randomized%20Heap>
+<https://cp-algorithms.com/data_structures/randomized_heap.html>
+
